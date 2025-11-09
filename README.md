@@ -4,8 +4,6 @@
 
 **An Industrial Defect Detection Framework for Open World Scenarios**
 
-[English](README_EN.md) | 简体中文
-
 </div>
 
 ---
